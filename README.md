@@ -23,5 +23,5 @@ Rockbuster relational database management system and Postgre SQL was used for th
 
 ### Visualizations
 
-Take a look at the [link to visualizations(https://public.tableau.com/app/profile/angelo.cruz4321/viz/Exercise2_9-AngeloCruz/Dashboard?publish=yes)] on Tableau Public.
+Take a look at the [link to visualizations] (https://public.tableau.com/app/profile/angelo.cruz4321/viz/Exercise2_9-AngeloCruz/Dashboard?publish=yes) on Tableau Public.
 
